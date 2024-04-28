@@ -128,6 +128,20 @@ def fib_menu():
     print("El resultado es:", fib(fibnum))
     time.sleep(DelayTimeVar)
 
+
+def factorial():
+    numero = obtener_numero("Número para obtener el factorial: ")
+
+    factorial = 1
+
+    i = 1
+    while (i <= numero):
+        factorial = factorial * i
+        i = i + 1
+
+    print ("El factorial de " + str(numero) + " es " + str(factorial))
+    time.sleep(DelayTimeVar)
+
 # Función para obtener un número
 def obtener_numero(mensaje):
     while True:
@@ -155,7 +169,8 @@ def calcmenu():
         print("11. Mostrar el valor de Pi")
         print("12. Mostrar el valor de e")
         print("13. Calcular el número Fibonacci")
-        print("14. Volver al menú anterior")
+        print("14. Calcular el factorial de un número")
+        print("15. Volver al menú anterior")
         operation = input("Ingrese su opción: ")
         if operation == '0':\
             CambiarDelayVar()
@@ -186,6 +201,8 @@ def calcmenu():
         elif operation == '13':
             fib_menu()
         elif operation == '14':
+            factorial()
+        elif operation == '15':
             break
         else:
             print("Opción inválida. Intente nuevamente.")
