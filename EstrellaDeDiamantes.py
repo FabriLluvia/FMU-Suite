@@ -2,7 +2,7 @@ def estrella(a):
     for row in range(a):
         for space in range(a - row - 1):  # Adjusting the number of spaces
             print(' ', end='')
-        for star in range(row + 1):
+        for _ in range(row + 1):
             print('*', end='')
         for star in range(1, row + 1):
             print('*', end='')
