@@ -11,7 +11,7 @@ def estrella(a):
     for row in range(a):  # Adjusted indentation
         for _ in range(row):
             print(' ', end='')
-        for star in range(a - row):
+        for _ in range(a - row):
             print('*', end='')
         for star in range(a - row - 1):
             print('*', end='')
