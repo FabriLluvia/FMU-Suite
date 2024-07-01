@@ -13,6 +13,6 @@ def estrella(a):
             print(' ', end='')
         for _ in range(a - row):
             print('*', end='')
-        for star in range(a - row - 1):
+        for _ in range(a - row - 1):
             print('*', end='')
         print()
