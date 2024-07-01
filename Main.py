@@ -5,7 +5,6 @@ import time
 import random
 import string
 import re
-import difflib
 import Calculadora
 import EstrellaDeDiamantes
 import difflib
