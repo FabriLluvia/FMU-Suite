@@ -7,6 +7,6 @@ def contar_palabras(frase):
 
 def contar_palabras_menu():
     text = input("Introduce un texto para contar la cantidad de palabras: ")
-    resultado = contar_palabras()
+    resultado = contar_palabras(text)
     print("El texto tiene", resultado, "palabras.")
     time.sleep(DelayTimeVar)
