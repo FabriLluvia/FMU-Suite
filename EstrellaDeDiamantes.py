@@ -1,6 +1,6 @@
 def estrella(a):
     for row in range(a):
-        for space in range(a - row - 1):  # Adjusting the number of spaces
+        for _ in range(a - row - 1):  # Adjusting the number of spaces
             print(' ', end='')
         for _ in range(row + 1):
             print('*', end='')
