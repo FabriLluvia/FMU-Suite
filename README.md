@@ -83,7 +83,7 @@ Project Link: [https://gitlab.com/fabrilluvia/FMU-Suite]
 ## Acknowledgements
 
 * FabriLluvia, me for this proyect
-* Alejandra, by the motivation :D
+* Alejandra, for the motivation :D
 
 
 
