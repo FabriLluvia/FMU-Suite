@@ -2,7 +2,7 @@
 - [About The Project](#about-the-project)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
-- [Usage](#usage)
+  - [Usage](#usage)
 - [Updates](#updates)
 - [Contributing](#contributing)
 - [License](#license)
@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple steps.
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+### Usage
 We're working on it!!
 
 
