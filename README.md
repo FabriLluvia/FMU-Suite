@@ -53,8 +53,8 @@ Contributions are what make the open source community an amazing place to learn,
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-You can also colaborate donating us to Patreon! 
-Help us making donnations to our patreon: (https://patreon.com/user?u=56529246&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
+You can also collaborate by donating to Patreon! 
+Help us make donations to our Patreon: (https://patreon.com/user?u=56529246&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
 
 
 
