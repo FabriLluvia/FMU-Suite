@@ -13,7 +13,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-It is a simple linux distro
+This is the FMU Suite, made to simplify python actions!
 
 <!-- GETTING STARTED -->
 ## Getting Started
