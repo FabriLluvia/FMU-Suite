@@ -2,9 +2,7 @@ import math
 import sys
 import time
 import random
-import string
 import re
-import difflib
 from config import DelayTimeVar
 
 def CambiarDelayVar():
