@@ -1,1 +1,1 @@
-DelayTimeVar = 2
+global DelayTimeVar = 2
