@@ -13,7 +13,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is the FMU Suite, made to simplify python actions!
+This is the FMU Suite, made to simplify Python actions!
 
 <!-- GETTING STARTED -->
 ## Getting Started
