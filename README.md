@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0272fff45ed941daa9fae423dbdcdd7e)](https://app.codacy.com/gh/FabriLluvia/FMU-Suite/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
 ### Table of Contents
 - [About The Project](#about-the-project)
 - [Getting Started](#getting-started)
