@@ -60,7 +60,7 @@ Help us make donations to our Patreon: (https://patreon.com/user?u=56529246&utm_
 
 
 
-We look forward to reviewing your contributions.
+We are excited to look over your contributions.
 
 
 
